@@ -1,40 +1,55 @@
-## Hi there 👋
-
-# I'm Michael Erwin
+# 👋 Hi, I'm Michael Erwin
 
 Founder of **Metameros** — a digital culture and media intelligence lab.
 
-Former Author Marketing Manager at **Callisto Media (Sourcebooks)** where I helped launch multiple Amazon category bestsellers.
+Former **Author Marketing Manager at Callisto Media (Sourcebooks)** where I helped launch multiple Amazon category bestsellers.
 
 ---
 
-## Current Focus
+## 🚀 What I'm Building
 
-Building AI tools for:
+**Metameros Platform**
 
-- Amazon book launch analytics
-- media intelligence systems
-- author marketing automation
-- cultural data analysis
+AI-powered infrastructure for:
+
+- 📚 Amazon book launch analytics  
+- 🧠 media intelligence systems  
+- ✍️ author marketing automation  
+- 📊 cultural data analysis  
+
+The goal is to create **data-driven publishing intelligence tools** for authors, journalists, and media organizations.
 
 ---
 
-## Projects
+## 🧠 Current Projects
 
 ### Metameros Platform
-AI-powered system for tracking book launches, category rankings, and media performance.
+AI system for tracking book launches, Amazon rankings, and media performance.
 
 ### Metameros Brain
-Second-brain system for research, contacts, and media intelligence using AI and embeddings.
+A second-brain knowledge system integrating:
+
+- Obsidian
+- Supabase
+- AI embeddings
+- semantic search
+
+### Author Marketing Intelligence
+Tools for analyzing:
+
+- bestseller category dynamics
+- review sentiment
+- keyword positioning
+- competitor titles
 
 ---
 
-## Background
+## 📚 Background
 
-BS Media Communications  
+**BS Media Communications**  
 Full Sail University
 
-Professional focus on:
+Professional focus:
 
 - data-driven publishing
 - AI-powered marketing
@@ -43,10 +58,16 @@ Professional focus on:
 
 ---
 
-## Connect
+## 🔗 Connect
 
 Portfolio  
 https://writerwin.notion.site
 
 X  
 https://x.com/michaelrayerwin
+
+---
+
+## ⚡ Vision
+
+Metameros aims to become a **digital culture and representation lab** that builds AI tools to analyze media, publishing, and cultural narratives.
