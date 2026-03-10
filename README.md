@@ -71,3 +71,10 @@ https://x.com/michaelrayerwin
 ## ⚡ Vision
 
 Metameros aims to become a **digital culture and representation lab** that builds AI tools to analyze media, publishing, and cultural narratives.
+
+
+## 📊 GitHub Stats
+
+![Michael's GitHub stats](https://github-readme-stats.vercel.app/api?username=VellichorVoyager&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VellichorVoyager&layout=compact&theme=tokyonight)
